@@ -1,0 +1,6 @@
+# vsim -l .log -voptargs="+acc" work. -do "log -r /*;run -all; exit" 
+# Start time: 12:02:51 on Dec 19,2023
+# ** Error: (vsim-11) Could not find work.<NULL>.
+# Error loading design
+# End time: 12:02:52 on Dec 19,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
